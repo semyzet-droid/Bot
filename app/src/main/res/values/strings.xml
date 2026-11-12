@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoC TH10 Prototype</string>
+    <string name="service_description">Optional tap control for user-configured scenarios while Clash of Clans is in foreground.</string>
+</resources>
